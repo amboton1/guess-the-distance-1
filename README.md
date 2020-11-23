@@ -9,7 +9,7 @@ This repository is intendend for my junior colleagues with the goal of helping t
 
 [![app screen](https://i.ibb.co/zspdsH0/sla4-Rn-O-removebg-preview.png)](https://www.figma.com/proto/TqRsnwBFsmoLwCVA1JQkSf/Untitled?node-id=1%3A2&scaling=scale-down)
 ## How is this structured?
-This task are strucutred in phases so it is easier to follow and do code reviews.
+This tasks are strucutred in phases so it is easier to follow and do code reviews.
 
 As we progress through phases we will be introducing new steps with guidelines on what should be done next. You will be given instructions what needs to be done, what to use and some general guidelines, but how you're going to do it is up to you to figure it out. You need to struggle a little bit on your own before asking for help as it is the best way to learn.
 
