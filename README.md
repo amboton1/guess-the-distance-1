@@ -22,9 +22,10 @@ You will be using various things oftenly used in JS app development process such
 - Redux
 - NodeJs / Express
 - Sockets
+- Testing
 - Deployment
 - ... and possibly more.
 
 ## Phases
-* Project setup
+* [Project setup](https://github.com/goran-zdjelar/guess-the-distance/tree/main/Tasks/0%20-%20Project%20setup)
 * Distance score API endpoint
