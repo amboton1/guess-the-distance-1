@@ -22,10 +22,10 @@ it has very good documentation.
 
 We are going to specify what the result should be when we input 2 specific latitudes and longitudes. So we need to know what we are looking for in advance.
 
-- Either find the latitude and longitude in cities.json or get it from https://www.latlong.net/ by entering the city name
-- Get those values for 2 cities and then use [this calculator](https://www.geodatasource.com/distance-calculator) to check the correct distance
-- Write unit few unit tests with sample latitude and longitude values and what results are expected (round up the values to be an integer and not decimal values,
-for example, if the result is 105.54km round it up to 106km)
+- Go to https://www.distancecalculator.net/ and find latitudes and longitudes for 2 cities by entering cities in the fileds on the top of the page and also check 
+what is the calculated distance
+- Write a few unit tests with sample latitude and longitude values and what results are expected (round up the values to be an integer and not decimal values,
+for example, if the result from the page above is 105.54km round it up to be 106km)
 - Make sure you write a test where the test fails if ```null``` values are provided in parameters and if values are not numbers and all those cases. 
 Think of what could go wrong and cover all that cases and define how should the future function behave in certain scenarios and write tests for this scenarios
 (for example, function should throw an error if a latitude of the first city is missing, or something like that)
