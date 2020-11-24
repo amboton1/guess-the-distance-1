@@ -28,5 +28,5 @@ You will be using various things oftenly used in JS app development process such
 
 ## Phases
 * [Project setup](https://github.com/goran-zdjelar/guess-the-distance/tree/main/Tasks/0%20-%20Project%20setup)
-* Distance calculation(https://github.com/goran-zdjelar/guess-the-distance/tree/main/Tasks/01%20-%20Distance%20calculation)
+* [Distance calculation](https://github.com/goran-zdjelar/guess-the-distance/tree/main/Tasks/01%20-%20Distance%20calculation)
 * ... to be continued
