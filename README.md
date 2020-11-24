@@ -7,7 +7,7 @@ This repository is intendend for my junior colleagues with the goal of helping t
 * We are going to build a simple game of guessing the distance (in kilometeres) between 2 random cities. 
 * It will be a multiplayer game but in the beginning we will make a single player (practice mode).
 
-[![app screen](https://i.ibb.co/mRSct4n/distance-removebg-preview.png)](https://www.figma.com/proto/TqRsnwBFsmoLwCVA1JQkSf/Untitled?node-id=1%3A2&scaling=scale-down)
+[![app screen](https://i.ibb.co/d6dSJHh/6-Q7wc4-J-removebg-preview.png)](https://www.figma.com/proto/TqRsnwBFsmoLwCVA1JQkSf/Untitled?node-id=1%3A2&scaling=scale-down)
 ## How is this structured?
 This tasks are strucutred in phases so it is easier to follow and do code reviews.
 
