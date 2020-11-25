@@ -14,7 +14,7 @@ to find latitude and longitude for these cities so we can calculate the distance
 
 ### Step 3 - write unit tests / specification
 Before writing the function for calculation, let's write a sort of specification what do we expect that function will do.
-We will do it by writing tests for the future calculation function. This approach is
+We will do that by writing tests for the future calculation function. This approach is
 so called [Test Driven Development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development)
 
 You are free to choose any testing tool you want but I recommend [Jest](https://jestjs.io/docs/en/getting-started) as it is very easy to get started and
@@ -24,11 +24,10 @@ We are going to specify what the result should be when we input 2 specific latit
 
 - Go to https://www.distancecalculator.net/ and find latitudes and longitudes for 2 cities by entering cities in the fileds on the top of the page and also check 
 what is the calculated distance (**note**: for some unknown reason the results on this site are not complete when entering cities in the fields on the top of the page so please append following to the root domain ```/from-zagreb-to-paris``` and then change the cities in URL)
-- Write a few unit tests with sample latitude and longitude values and what results are expected (round up the values to be an integer and not decimal values,
+- Write a few unit tests with sample latitude and longitude values and expected results (round up the values to be an integer and not decimal values,
 for example, if the result from the page above is 105.54km round it up to be 106km)
 - Make sure you write a test where the test fails if ```null``` values are provided in parameters and if values are not numbers and all those cases. 
-Think of what could go wrong and cover all that cases and define how should the future function behave in certain scenarios and write tests for this scenarios
-(for example, function should throw an error if a latitude of the first city is missing, or something like that)
+Think of what could go wrong, cover all cases and define how should the future function behave in certain scenarios. Test all scenarios. For example, function should throw an error if a latitude of the first city is missing, or something like that.
 
 ### Step 3 - function for distance calculation
 Once we specified desired behaviour and wrote unit tests, it's time to actually create the function itself.
