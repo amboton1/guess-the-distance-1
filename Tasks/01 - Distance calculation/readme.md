@@ -13,7 +13,7 @@ We will use **countries.json** to get our target random cities (countires contai
 to find latitude and longitude for these cities so we can calculate the distance between them.
 
 ### Step 3 - write unit tests / specification
-Before writing the function for calculation, let's write a sort of specification what to we expect that function to do.
+Before writing the function for calculation, let's write a sort of specification what do we expect that function will do.
 We will do it by writing tests for the future calculation function. This approach is
 so called [Test Driven Development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development)
 
