@@ -5,7 +5,7 @@
 The goal of our game is to enable users to guess the distance between two cities, 
 therefore we need to prepare our data and do some calculations.
 
-### Step 1 - prepare data
+### Step 1 - data preparation
 Check out the resources directory in this task and you will find two json files.
 One is countries.json and the other one is cities.json
 
